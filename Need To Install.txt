@@ -1,5 +1,5 @@
 <-- Need To Install -->
-
+Code Editor: VS Code
 First Download and install Python.
 
 //In The Terminal
@@ -7,6 +7,7 @@ pip install pillow
 pip install mysql-connector-python
 sudo apt-get install python3-tk
 pip install plyer
+pip install bcrypt
 
 python -m venv myenv
 myenv\Scripts\activate
