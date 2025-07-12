@@ -14,3 +14,7 @@ myenv\Scripts\activate
 
 pip install -r requirements.txt
 
+<-- Database -->
+Download and install "xampp"
+create a database named "patient_reminder"
+
